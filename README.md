@@ -1,6 +1,6 @@
 
 
-### Animecix-Hata-Avcılığı
+##### Animecix-Hata-Avcılığı
 
 
 Animecix, Hata bildirme rehberi.
