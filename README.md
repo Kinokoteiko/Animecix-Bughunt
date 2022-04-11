@@ -19,13 +19,20 @@ Mesela hata yüzünden yanlış gerçekleşen veya gerçekleşmeyen eylemin, Eğ
 Hata yüzünden gerçekleşen eylemi söylemen lazım, Yani bir önceki maddede nasıl gerçeklemesi gerektiğini söylemiştin şimdi ise bize ne olduğunu söylemen gereken hatayı bildirirken ne gerçekleşiyor?
 
 ###Örnek Hata Bildirisi
+
 Ana sayfa dışında bir sekmeden listem tuşuna tıkladığımızda Animecix çöküyor.
+
 -Animecix'i aç.
+
 -Ana sayfaya gel
+
 -Haberler sekmesine tikla
+
 -Listeme tikla
+
 Olmasi gereken:
 Seni listem sekmesine yonlendirmeli hesabina giris yapmadiysan giris yapma sekmesine yönlendirmeli
+
 Olan:
 Animecix çöküyor.
 
