@@ -18,10 +18,12 @@ Mesela hata yüzünden yanlış gerçekleşen veya gerçekleşmeyen eylemin, Eğ
 #4. Şimdi ise Bize Ne Olduğunu Söyle
 Hata yüzünden gerçekleşen eylemi söylemen lazım, Yani bir önceki maddede nasıl gerçeklemesi gerektiğini söylemiştin şimdi ise bize ne olduğunu söylemen gereken hatayı bildirirken ne gerçekleşiyor?
 
-###Örnek Hata Bildirisi
+### Örnek Hata Bildirisi
 
+Hata Özeti:
 Ana sayfa dışında bir sekmeden listem tuşuna tıkladığımızda Animecix çöküyor.
 
+Hataya Ulaşmak İçin Aşamalar
 -Animecix'i aç.
 
 -Ana sayfaya gel
