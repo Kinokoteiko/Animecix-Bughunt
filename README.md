@@ -8,7 +8,7 @@ Animecix, Hata bildirme rehberi.
 Merhabalar, Bu metin size nasıl Animecix uygulamasında bulduğunuz hataları bildireceğiniz anlatıyor.
 
 
-## 1. Hatanı birkaç cümle ile özetlemen lazım
+## 1. Hatanı Birkaç Cümle İle Özetlemen Lazım.
 
 Hatanın ne olduğunu tam olarak anlamamız için bize birkaç cümle ile bunu özetlemen lazım ve bunu yaparken mümkün olduğunca açılayı  cı ol.
 
@@ -45,10 +45,10 @@ Hataya Ulaşmak İçin Aşamalar
 
 -Listeme tikla
 
-Olması gereken:
+Olması gereken eylem:
 Seni listem sekmesine yonlendirmeli hesabina giris yapmadiysan giris yapma sekmesine yönlendirmeli
 
-Olan:
+Olan eylem:
 Animecix çöküyor.
 
 
@@ -56,6 +56,6 @@ Animecix çöküyor.
 Bulduğun Hataları Animecix Discord sunucusundaki #istek-şikayet-ticket kanalında Destek Taalebi oluşturup bildireceksiniz.
 
 
-Discord Adesi:
+Discord Adresi:
 
 https://discord.gg/animecix 
