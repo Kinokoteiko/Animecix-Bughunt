@@ -53,7 +53,7 @@ Animecix çöküyor.
 
 
 ### Peki bunları nereye bildireceksiniz?
-Bulduğun Hataları Animecix Discord sunucusundaki #istek-şikayet-ticket kanalında Destek Taalebi oluşturup bildireceksiniz.
+Bulduğun Hataları Animecix Discord sunucusundaki #istek-şikayet-ticket kanalında Destek Talebi oluşturup bildireceksiniz.
 
 
 Discord Adresi:
